@@ -2698,18 +2698,18 @@
   optionalDependencies:
     prettier "^1.18.2"
 
-"@vue/server-test-utils@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.npmjs.org/@vue/server-test-utils/-/server-test-utils-1.0.3.tgz#7ece4789ce01a3622debf2cc365a0078e9978158"
-  integrity sha512-PCMNKoBxbXUow0ZDI4x+HZwQ/RFbFG0+UrrgBZLpzqKdDMZX9s71P9/MVEvE7fopLOP9esE+P+7f93H76cUssw==
+"@vue/server-test-utils@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.npmjs.org/@vue/server-test-utils/-/server-test-utils-1.0.4.tgz#5625b22a07e97d7ea47199b7f4126fb481a49278"
+  integrity sha512-fO2vCPJnbPbR0Trs9zCao8j9+G83xTSBHGw4+Dlkd+zEpWM5vewLGDmKPIa6SBgGPPUkmVzpAvG9aEL8vKr/TQ==
   dependencies:
     "@types/cheerio" "^0.22.10"
     cheerio "^1.0.0-rc.2"
 
-"@vue/test-utils@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.npmjs.org/@vue/test-utils/-/test-utils-1.0.3.tgz#587c4dd9b424b66022f188c19bc605da2ce91c6f"
-  integrity sha512-mmsKXZSGfvd0bH05l4SNuczZ2MqlJH2DWhiul5wJXFxbf/gRRd2UL4QZgozEMQ30mRi9i4/+p4JJat8S4Js64Q==
+"@vue/test-utils@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.npmjs.org/@vue/test-utils/-/test-utils-1.0.4.tgz#6341caccdf72da5914a5168e680ea12550fba98a"
+  integrity sha512-uIdDqFauzNJWlhltLSZU+P3uHEgUQczklSv2b1EKC7JzxBg9OY/5sx8UyuJwBD+zuxidhFZ4SjTuPgr8cdf63w==
   dependencies:
     dom-event-types "^1.0.0"
     lodash "^4.17.15"
@@ -3943,10 +3943,10 @@ caniuse-lite@^1.0.0, caniuse-lite@^1.0.30000981, caniuse-lite@^1.0.30001109, can
   resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001113.tgz#22016ab55b5a8b04fa00ca342d9ee1b98df48065"
   integrity sha512-qMvjHiKH21zzM/VDZr6oosO6Ri3U0V2tC015jRXjOecwQCJtsU5zklTNTk31jQbIOP8gha0h1ccM/g0ECP+4BA==
 
-caniuse-lite@^1.0.30001114:
-  version "1.0.30001114"
-  resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001114.tgz#2e88119afb332ead5eaa330e332e951b1c4bfea9"
-  integrity sha512-ml/zTsfNBM+T1+mjglWRPgVsu2L76GAaADKX5f4t0pbhttEp0WMawJsHDYlFkVZkoA+89uvBRrVrEE4oqenzXQ==
+caniuse-lite@^1.0.30001115:
+  version "1.0.30001115"
+  resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001115.tgz#c04cd828883ba47f6f776312e0817bcc9040cfa4"
+  integrity sha512-NZrG0439ePYna44lJX8evHX2L7Z3/z3qjVLnHgbBb/duNEnGo348u+BQS5o4HTWcrb++100dHFrU36IesIrC1Q==
 
 capture-exit@^2.0.0:
   version "2.0.0"
@@ -7101,10 +7101,10 @@ import-modules@^2.0.0:
   resolved "https://registry.npmjs.org/import-modules/-/import-modules-2.0.0.tgz#9c1e13b4e7a15682f70a6e3fa29534e4540cfc5d"
   integrity sha512-iczM/v9drffdNnABOKwj0f9G3cFDon99VcG1mxeBsdqnbd+vnQ5c2uAiCHNQITqFTOPaEvwg3VjoWCur0uHLEw==
 
-improved-yarn-audit@^2.2.1:
-  version "2.2.1"
-  resolved "https://registry.npmjs.org/improved-yarn-audit/-/improved-yarn-audit-2.2.1.tgz#6d3d5eedc31eb9c808f244931923fff7ca8a4e42"
-  integrity sha512-jfyHpHSoyKk4/xm0UULAOO32i0Q9YiHSZodZ0OIS9YMtl+idgZpmpcKrtnuAfG7VNp6KsfUv0c0mV070z8DrVQ==
+improved-yarn-audit@^2.3.1:
+  version "2.3.1"
+  resolved "https://registry.npmjs.org/improved-yarn-audit/-/improved-yarn-audit-2.3.1.tgz#e937f32e4da250eece077693c612caef05be435b"
+  integrity sha512-jMME3sGF8RosTpQ7CMoel4F8UKJs6bvP2Dc11gkZrKynxBpulQ4bJKgGydnAyHgDavJw6NbssMrbqwVSiuw5Ug==
 
 imurmurhash@^0.1.4:
   version "0.1.4"
@@ -11497,10 +11497,10 @@ rollup-plugin-license@^2.2.0:
     spdx-expression-validate "2.0.0"
     spdx-satisfies "5.0.0"
 
-rollup@2.26.2:
-  version "2.26.2"
-  resolved "https://registry.npmjs.org/rollup/-/rollup-2.26.2.tgz#de32c2c28a0b5fb843d120e2b3a252a18e7740e9"
-  integrity sha512-dQOms6XRPGHS5Chq7JkkkGXeO72hzWuftB4Rba0rMIT5lThvcEXLTgjrp6+ehhUlsFraOfvcF0Q8dRoQ/X68WQ==
+rollup@2.26.3:
+  version "2.26.3"
+  resolved "https://registry.npmjs.org/rollup/-/rollup-2.26.3.tgz#502c755872a4590937cfa4e8f7eb99d3bc3c4025"
+  integrity sha512-Mlt39/kL2rA9egcbQbaZV1SNVplGqYYhDDMcGgHPPE0tvM3R4GrB+IEdYy2QtTrdzMQx57ZcqDFf/KWWm8F+uw==
   optionalDependencies:
     fsevents "~2.1.2"
 
